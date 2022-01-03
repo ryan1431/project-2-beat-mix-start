@@ -13,6 +13,15 @@ function clear (arr) {
     if(invalidInput(arr)) { 
         return;
     }
+    // newline commit here
+
+    var x; 
+
+    if (!x) { 
+        //unused
+    }
+
+    //
 
     arr === 'kicks'
         ? kicks = setFalse(kicks)
